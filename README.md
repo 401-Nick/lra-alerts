@@ -1,5 +1,9 @@
 # LRA Alerts Frontend
 
+
+<!-- image.png is in the root directory -->
+[Dashboard Screenshot](../image.png)
+
 A React-based frontend application for the Land Reutilization Authority (LRA) alerts system, built with TypeScript, Vite, and Firebase Authentication.
 
 ## 🏗️ Architecture Overview
